@@ -1,0 +1,6 @@
+{
+  "name": "Brotherly - Peer Mentorship for Men",
+  "description": "Interactive showcase of Brotherly: a peer-mentorship platform for men and fathers, along with the detailed UK Innovator Founder Visa Business Plan and Pitch Deck.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
